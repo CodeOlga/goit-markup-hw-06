@@ -642,7 +642,7 @@ img {
 }
 .contact-form-checkbox:checked {
   background-color: var(--pressed-state-bg-cl);
-  border: none;
+  border-color: var(--pressed-state-bg-cl);
 }
 .checkbox-icon {
   position: absolute;
