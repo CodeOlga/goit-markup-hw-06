@@ -627,7 +627,7 @@ img {
 }
 .checkbox-wrapper {
   position: relative;
-  color: var(--white-txt-cl);
+  color: var(--modal-bg-cl);
 }
 .contact-form-checkbox {
   appearance: none;
@@ -648,6 +648,7 @@ img {
   position: absolute;
   top: 0;
   left: 0;
+
   fill: currentColor;
 }
 .contact-form-link {
